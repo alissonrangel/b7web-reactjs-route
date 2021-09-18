@@ -1,3 +1,12 @@
+
+# Aplicação como atividade do curso de React do curso da B7web
+# Professor Bonieky Lacerda
+# Atividade: criação de Modal e Router
+
+# bibliotecas
+* react-router-dom
+* styled-components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
